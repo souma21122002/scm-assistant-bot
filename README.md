@@ -16,17 +16,26 @@ The chatflow is kept public and active. Please do not evaluate before checking t
 
 ```
 scm-assistant-bot/
+│
 ├── scm_assistant.json
 ├── README.md
 ├── .gitignore
+│
 └── screenshots/
-    ├── 01_document_store.png
-    ├── 02_chatflow_canvas.png
-    ├── 03_chunk_config_1.png
-    ├── 04_chunk_config_2.png
-    ├── 05_test_questions.png
-    ├── 06_public_chatbot.png
-    └── 07_qdrant_collection.png
+    ├── Chatbot_Example.png
+    ├── DS_Dashboard.png
+    ├── Public_URL.png
+    ├── Q_1_Trinamix.png
+    ├── Q_2_Trinamix.png
+    ├── Q_3_Trinamix.png
+    ├── Q_4_Trinamix.png
+    ├── Q_5_Trinamix.png
+    ├── Qdrant_Dashboard.png
+    ├── SCM_assistant_chartflow.png
+    ├── Txt_chunks.png
+    ├── Txt_chunks_2.png
+    ├── csv_chunks.png
+    └── csv_chunks_2.png
 ```
 
 ---
